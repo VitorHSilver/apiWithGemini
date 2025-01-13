@@ -44,15 +44,6 @@ cd seu-repositorio
 npm  install
 ```
 
-## Configuração
-
-```properties
-
-STRING_CONEXAO = <sua-string-de-conexao-mongodb>
-
-GEMINI_API_KEY = <sua-chave-api-gemini>
-
-```
 
 # Endpoints
 
