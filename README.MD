@@ -76,6 +76,7 @@ Este projeto é uma API construída com Express.js que permite fazer operações
 
 -    Node.js
 -    Express.js
+-    Postman
 -    MongoDB Atlas
 -    Multer (para upload de arquivos)
 -    Gemini (para geração de descrições de imagens)
