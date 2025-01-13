@@ -20,6 +20,8 @@ Este projeto é uma API construída com Express.js que permite fazer operações
 
 -    Express.js
 
+-    Postman
+
 -    MongoDB Atlas
 
 -    Multer (para upload de arquivos)
