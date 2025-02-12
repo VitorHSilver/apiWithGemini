@@ -60,19 +60,6 @@ npm  install
 -    Cria um novo post.
 -    Corpo da requisição (JSON):
 
-Aqui está um exemplo de README para o seu projeto:
-
-````markdown
-# API de Posts com Descrição de Imagens usando Express.js e MongoDB Atlas
-
-Este projeto é uma API construída com Express.js que permite fazer operações de GET e POST em um banco de dados MongoDB Atlas. Além disso, utiliza o serviço Gemini para gerar descrições de imagens.
-
-## Funcionalidades
-
--    **Listar Posts**: Recupera todos os posts do banco de dados.
--    **Criar Post**: Adiciona um novo post ao banco de dados.
--    **Upload de Imagem**: Faz upload de uma imagem e cria um post associado.
--    **Atualizar Post**: Atualiza um post existente com uma descrição gerada pelo serviço Gemini.
 
 ## Tecnologias Utilizadas
 
