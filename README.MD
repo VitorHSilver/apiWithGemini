@@ -34,9 +34,9 @@ Este projeto é uma API construída com Express.js que permite fazer operações
 
 ```sh
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/VitorHSilver/apiWithGemini.git
 
-cd seu-repositorio
+cd apiWithGemini
 
 ```
 
