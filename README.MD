@@ -70,22 +70,8 @@ npm  install
 -    Multer (para upload de arquivos)
 -    Gemini (para geração de descrições de imagens)
 
-## Instalação
 
-1. Clone o repositório:
-     ```sh
-     git clone https://github.com/seu-usuario/seu-repositorio.git
-     cd seu-repositorio
-     ```
-````
-
-2. Instale as dependências:
-
-     ```sh
-     npm install
-     ```
-
-3. Configure as variáveis de ambiente:
+Configure as variáveis de ambiente:
    Crie um arquivo
 
 .env
